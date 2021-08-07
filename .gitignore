@@ -1,0 +1,5 @@
+*.json
+dafuniversion.vershit
+*.jks
+*.pepk
+CrypterInit.hx
